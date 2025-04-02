@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 Third-year Computer Science student at Addis Ababa University  
-- 🏆 Passionate about **Game Development, problem-solving, and building applications**  
+- 🏆 Passionate about **Game Development, Problem-Solving, and Building Applications**  
 - 💻 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**  
 
 ---  
