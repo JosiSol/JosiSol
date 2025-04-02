@@ -20,7 +20,7 @@
 ![Raylib](https://img.shields.io/badge/Raylib-0000FF?style=for-the-badge&logo=raylib&logoColor=white)
 
 
-#### <u> Currently </u>
+### Currently Learning
 **Web Development**  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
