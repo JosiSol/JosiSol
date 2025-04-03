@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats:
 <div>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanf28&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josisol&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 
 
 <!--
