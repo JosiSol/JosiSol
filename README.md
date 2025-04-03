@@ -32,7 +32,13 @@
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-solomon-aa39a8313/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JosiSol)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosefsolomon21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosefsolomon21@gmail.com)  
+
+---
+### 📊 GitHub Stats:
+<div>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanf28&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 
 
 <!--
