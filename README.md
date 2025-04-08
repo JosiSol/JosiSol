@@ -40,7 +40,7 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josisol&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nathanaelcheramlak&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=josisol&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </div>
 
