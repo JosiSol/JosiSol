@@ -39,6 +39,10 @@
 <div>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josisol&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nathanaelcheramlak&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</div>
 
 ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 
