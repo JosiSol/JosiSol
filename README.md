@@ -49,11 +49,11 @@ I actively participate in **competitive programming** to enhance my **problem-so
 Currently, I am taking the **A2SV in-person course in Data Structures & Algorithms (DSA)**, where I solve complex problems, collaborate with peers, and refine my coding techniques to excel in high-level problem-solving.
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME_HERE" target="_blank">
+  <a href="https://leetcode.com/JosiSol" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_USERNAME_HERE" target="_blank">
+  <a href="https://codeforces.com/profile/JosiSol" target="_blank">
     <img src="https://sta.codeforces.com/s/73550/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100"/>
   </a>
 </p>
