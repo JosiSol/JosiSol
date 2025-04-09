@@ -41,6 +41,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josisol&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 </div>
 
+---
+## 🎯 Competitive Programming
+
+I actively participate in **competitive programming** to enhance my **problem-solving skills, algorithmic thinking, and efficiency in coding under constraints**. I regularly tackle challenges on **[LeetCode](https://leetcode.com/)** and **[Codeforces](https://codeforces.com/)**, sharpening my **DSA expertise** and improving my coding speed.
+
+Currently, I am taking the **A2SV in-person course in Data Structures & Algorithms (DSA)**, where I solve complex problems, collaborate with peers, and refine my coding techniques to excel in high-level problem-solving.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  &nbsp;
+  <a href="https://leetcode.com/"><strong>LeetCode</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://sta.codeforces.com/s/73550/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100"/>
+  &nbsp;
+  <a href="https://codeforces.com/"><strong>Codeforces</strong></a>
+</p>
+
 ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 
 
