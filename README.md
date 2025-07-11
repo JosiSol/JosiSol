@@ -3,8 +3,8 @@
 ## 🕒 Front-End Developer -- In Progress  
 
 ### About Me
-- 🎓 Third-year Computer Science student at Addis Ababa University  
-- 🏆 Passionate about **Game Development, Problem-Solving, and Building Applications**  
+- 🎓 Computer Science student at Addis Ababa University  
+- 🏆 Passionate about **Game Development, Problem-Solving, and Front-end Development**  
 - 💻 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**  
 
 ---  
