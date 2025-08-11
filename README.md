@@ -1,6 +1,6 @@
 ## Hello, my name is Yosef Solomon 👋  
 ## 🚀 Game Developer  
-## 🕒 Front-End Developer -- In Progress  
+## 🖼️ Front-End Developer 
 
 ### About Me
 - 🎓 Computer Science student at Addis Ababa University  
@@ -18,7 +18,6 @@
 [![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Raylib](https://img.shields.io/badge/RAYLIB-0000FF?style=for-the-badge&logo=raylib&logoColor=white)](https://www.raylib.com/)
 
-## Currently Learning
 ### Web Development
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
