@@ -42,7 +42,7 @@ Currently, I am taking the **A2SV in-person course in Data Structures & Algorith
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/JosiSol" target="_blank">
+  <a href="https://codeforces.com/profile/Qebew" target="_blank">
     <img src="https://sta.codeforces.com/s/73550/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100"/>
   </a>
 </p>
