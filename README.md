@@ -28,9 +28,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JosiSol)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosefsolomon21@gmail.com)  
 
----
-### 📊 GitHub Stats:
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSol&layout=compact)
 
 
 ---
