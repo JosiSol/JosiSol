@@ -3,7 +3,6 @@
 ## 🖼️ Front-End Developer 
 
 ### About Me
-- 🎓 Computer Science student at Addis Ababa University  
 - 🏆 Passionate about **Game Development, Problem-Solving, and Front-end Development**  
 - 💻 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**  
 
